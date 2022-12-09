@@ -30,3 +30,16 @@ demo:
     = = =
   ==== ====
  ===== =====
+
+Всего коммитов 11 (не включая этот):
+hometask
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'human/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
